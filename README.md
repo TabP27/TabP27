@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @TabP27 (Tamara).
-- 🌱 I’m currently studying a post-grad qualification in Data Analytics.
+Hi, I'm Tamara.
+I work in Analytics using SQL.
+I have experience using Python and R.
 
 <!---
 TabP27/TabP27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
