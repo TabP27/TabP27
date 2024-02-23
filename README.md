@@ -1,5 +1,5 @@
 Hi, I'm Tamara.
-I work in Analytics using SQL.
+I work in Analytics using Power BI, SQL, and DAX.
 I have experience using Python and R.
 
 <!---
