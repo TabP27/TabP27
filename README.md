@@ -1,7 +1,7 @@
 Hi, I'm Tamara.
-I work in Analytics using Power BI, SQL, DAX and M code.
-I have experience using Python, R, and Machine Learning.
-I studied a Graduate Certificate in Data Analytics (HD, HD, D, C) at Deakin University in 2021.
+* I work in Analytics using Power BI, SQL, DAX and M code.
+* I have experience using Python, R, and Machine Learning.
+* I completed a Graduate Certificate in Data Analytics (HD, HD, D, C) at Deakin University in 2021.
 
 
 <!---
